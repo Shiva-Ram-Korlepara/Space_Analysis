@@ -2,3 +2,5 @@ Datasets
 .DS_Store
 .ipynb_checkpoints
 Dataset_Choosing.txt
+kaggle_kepler_data.txt
+fits_files
